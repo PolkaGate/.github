@@ -8,11 +8,11 @@ Manage assets, stake, participate in governance, and explore parachains — secu
 ## 🔹 Main Products
 
 ### 1️⃣ PolkaGate Wallet (Browser Extension)
-- Multi-chain support: Polkadot, Kusama, and compatible parachains  
-- Account management: create, import, watch-only, hardware wallet support  
-- Staking & governance: solo or pooled staking, voting, proxy accounts  
-- Recovery & security: social recovery, seed/derivation path management, phishing protection  
-- Transaction tracking: view transfers, staking, and parachain activity
+- **Multi-chain support**: Polkadot, Kusama, and compatible parachains  
+- **Account management**: create, import, watch-only, hardware wallet support  
+- **Staking**: solo or pooled staking of DOT/KSM  
+- **Security**: seed/derivation path management, phishing protection  
+- **Transaction tracking**: view transfers, staking, and parachain activity
 
 ### 2️⃣ PolkaGate Snap (MetaMask Extension)
 - Access Polkadot assets directly in **MetaMask**  
@@ -24,12 +24,13 @@ Manage assets, stake, participate in governance, and explore parachains — secu
 
 ## ⚡ Quick Links
 
-- 🌐 [Official Website / Docs](https://polkagate.xyz)  
+- 🌐 [Official Website](https://polkagate.xyz)  
+- 📚 [Documentation](https://docs.polkagate.xyz)  
 - 💻 [Install Browser Wallet](https://chrome.google.com/webstore/detail/polkagate/ginchbkmljhldofnbjabmeophlhdldgp)  
 - 🔗 [PolkaGate Snap on MetaMask](https://github.com/polkagate/polkagate-snap)  
 - 🛠 [Developer Resources / GitHub](https://github.com/polkagate)  
-- 🗣 [Community / Discord](#)  
-- 🐦 [Twitter](#)  
+- 🗣 [Telegram](https://t.me/polkagate)  
+- 🐦 [Twitter](https://twitter.com/polkagate)  
 
 ---
 
