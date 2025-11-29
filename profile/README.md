@@ -27,7 +27,7 @@ Manage assets, stake, participate in governance, and explore parachains — secu
 - 🌐 [Official Website](https://polkagate.xyz)  
 - 📚 [Documentation](https://docs.polkagate.xyz)  
 - 💻 [Install Browser Wallet](https://chrome.google.com/webstore/detail/polkagate/ginchbkmljhldofnbjabmeophlhdldgp)  
-- 🔗 [PolkaGate Snap on MetaMask]((https://snaps.metamask.io/snap/npm/polkagate/snap/))  
+- 🔗 [PolkaGate Snap on MetaMask](https://snaps.metamask.io/snap/npm/polkagate/snap/)  
 - 🛠 [Developer Resources / GitHub](https://github.com/polkagate)  
 - 🗣 [Telegram](https://t.me/polkagate)  
 - 🐦 [Twitter](https://twitter.com/polkagate)  
