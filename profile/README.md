@@ -46,5 +46,3 @@ Whether you are a developer, staker, or everyday user, PolkaGate makes interacti
 1. Install the **PolkaGate browser wallet** or **Snap extension**  
 2. Create or import your Polkadot/Kusama account  
 3. Explore balances, stake, vote in governance, and transfer assets across chains  
-
-> This profile README is displayed at the top of the PolkaGate GitHub organization page.
